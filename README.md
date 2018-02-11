@@ -25,7 +25,10 @@ Only CS-595 students in Group 7 (labeled in the Authors page) are allowed to con
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Evan Becker**
+* **Arham Akbar**
+* **Ron Zalewski**
+* **Swfeng Vang**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
