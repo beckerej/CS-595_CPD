@@ -13,12 +13,6 @@ There are 3 folders associated with this project.
 
 Using Expo.io, one can simply scan the QR codes associated to each project folder found in Applications. 
 
-### Prerequisites
-
-Node JS
-React Native
-Expo.io
-
 ## Built With
 
 * [Node JS](https://nodejs.org/en/) - Used for server communication
