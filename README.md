@@ -5,8 +5,8 @@ Continuous Professional Development group research for CS-595 [Capstone] at the 
 ## Getting Started
 
 There are 3 folders associated with this project.
-1. Applications - This is where our group projects/apps will be placed into
-2. Documents - This is where any document or learning resource will be dumped into
+1. Applications - This is where our group projects/apps will be placed into.
+2. Documents - This is where any document or learning resource will be dumped into.
 3. Reports - This is where our biweekly reports will be placed into after being placed into the Dropbox (D2L).
 
 ## Deployment
