@@ -4,7 +4,7 @@ This is a basic calculator designed in react native. It was modeled after the ca
 
 ## Getting Started
 
-To build the program, you must use `react-native init calculator`
+1. To build the program, you must use `react-native init calculator`
 
 ## Deployment
 
