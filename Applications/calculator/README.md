@@ -4,7 +4,9 @@ This is a basic calculator designed in react native. It was modeled after the ca
 
 ## Getting Started
 
-1. To build the program, you must use `react-native init calculator`
+0. Run npm install to correctly download the `node_modules` packages.
+1. To build the program, you must use `react-native init calculator`.
+
 
 ## Deployment
 
